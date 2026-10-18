@@ -29,6 +29,9 @@ at home, in one Docker container. No cloud, no account.
 
 We built it for the two of us, to look back at our trips the way we lived them: in order, place by place.
 
+> **Status:** a personal project we use every day, maintained in my spare time. Issues, ideas and feedback are
+> very welcome; I read everything, but replies may take a few days.
+
 <table>
   <tr>
     <td width="33%"><img src="docs/media/screen-globe.jpg" alt="The globe with every trip and its route"></td>

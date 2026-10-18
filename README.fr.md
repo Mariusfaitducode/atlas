@@ -29,6 +29,9 @@ sur un ordinateur chez vous, dans un seul conteneur Docker. Pas de cloud, pas de
 
 Nous l'avons fait pour nous deux, pour revoir nos voyages comme nous les avons vécus : dans l'ordre, lieu par lieu.
 
+> **État :** un projet personnel que nous utilisons tous les jours, maintenu sur mon temps libre. Tickets, idées
+> et retours sont les bienvenus ; je lis tout, mais les réponses peuvent prendre quelques jours.
+
 <table>
   <tr>
     <td width="33%"><img src="docs/media/screen-globe.jpg" alt="Le globe avec chaque voyage et son itinéraire"></td>
