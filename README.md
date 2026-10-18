@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Mariusfaitducode/waysake/releases/download/v0.2.0/waysake-demo.mp4"><b>▶ Watch the 50-second demo</b></a>
+  <a href="https://waysake.com/app/"><b>Try the live demo</b></a> · <a href="https://github.com/Mariusfaitducode/waysake/releases/download/v0.2.0/waysake-demo.mp4"><b>▶ Watch the 50-second demo</b></a> · <a href="https://waysake.com">waysake.com</a>
 </p>
 
 Waysake is a self-hosted travel drive for a couple or a family. You send it your photos; it sorts them into

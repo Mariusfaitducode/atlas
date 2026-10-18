@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Mariusfaitducode/waysake/releases/download/v0.2.0/waysake-demo.mp4"><b>▶ Voir la démo de 50 secondes</b></a>
+  <a href="https://waysake.com/app/"><b>Essayer la démo en ligne</b></a> · <a href="https://github.com/Mariusfaitducode/waysake/releases/download/v0.2.0/waysake-demo.mp4"><b>▶ Voir la démo de 50 secondes</b></a> · <a href="https://waysake.com">waysake.com</a>
 </p>
 
 Waysake est un drive de voyages auto-hébergé, pour un couple ou une famille. Vous lui envoyez vos photos ; il
